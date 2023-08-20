@@ -126,4 +126,4 @@ The ViewsApp provides the following endpoints:
  
 ***
 
-work documentation [here] (https://docs.google.com/document/d/1Jv8HhPOCEqj_thccbLFl6S44yQH1g84pkvIfNckCTqI/edit?usp=sharing)
+work documentation [here](https://docs.google.com/document/d/1Jv8HhPOCEqj_thccbLFl6S44yQH1g84pkvIfNckCTqI/edit?usp=sharing)
