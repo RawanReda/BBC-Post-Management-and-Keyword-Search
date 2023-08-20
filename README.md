@@ -1,4 +1,8 @@
-# BBC
+# BBC-Post-Management-and-Keyword-Search
+Code for the Directory and Search services of the BBC Post Management System, developed using SpringBoot as part of a course for building scalable apps to design a replica of the BBC website. The Directory service manages directories and post metadata, while the Search service allows users to find posts based on keywords.
+
+Please note that this repository only showcases the part of the project. If you're interested in the full project, you can find it at the following link: [here](https://github.com/HabibaGamil/BBC).
+
 # Directory, Search, and Views App
 
 Directory, Search, and Views App are three separate microservices that work together to provide a comprehensive platform for managing and searching posts. 
